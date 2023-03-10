@@ -2,7 +2,7 @@
 THIS IS MY ALARM CLOCK.
 
 
-### OUR HOUSE WEBSITE
+### ALARM CLOCK
 
 Click [here](https://raminder13.github.io/Alarm_clock/) to visit.
 
